@@ -1,0 +1,8 @@
+Converting GML script: ${project_dir}\objects\obj_mic\Create_0.gml
+Converted description /// @description HOW TO USE
+
+Converting GML script: ${project_dir}\objects\obj_mic\Other_73.gml
+Converted description /// @description Get audio volume
+
+Converting GML script: ${project_dir}\objects\obj_mic\Draw_0.gml
+Converted description /// @description DRAW - Disable drawing in create event!
